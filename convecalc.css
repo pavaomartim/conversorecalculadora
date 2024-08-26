@@ -1,0 +1,13 @@
+* {
+    font-family: Arial;
+}
+
+.mostrar-borda1 {
+border: 2px solid lightblue;
+width: 660px;
+}
+
+#mostrar-borda2 {
+border: 2px solid red;
+width: 660px;
+}
