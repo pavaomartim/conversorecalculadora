@@ -2,7 +2,7 @@ var mensagem1 = "";
 var mensagem2 = "";
 var msgerro = "";
 
-var escolha = prompt("quer usar o conversor ou a calculadora?")
+var escolha = prompt("você quer usar o conversor ou a calculadora?")
 
 if (escolha == "conversor") {
   var dinheiro = prompt("digite um valor em reais: ");
